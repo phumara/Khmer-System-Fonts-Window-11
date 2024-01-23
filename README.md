@@ -21,3 +21,5 @@ This project aims to replace the ugly Khmer UI fonts provided by Microsoft as th
 ## Uninstall
 
 Install and overwrite all fonts in ``backup`` directory
+
+Thank to  https://github.com/fidele007/Khmer-System-Fonts-Win10  that make it work .I just edit font size and modify some point only.I'm not professional font editor.
